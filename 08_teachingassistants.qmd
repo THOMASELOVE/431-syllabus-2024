@@ -81,4 +81,7 @@ Ria Tilve is a second year medical student at CWRU. After completing her bachelo
 
 ### Sarah Albalawi {#sec-sarah}
 
-Details coming soon.
+![Sarah Albalawi](images/Sarah_Albalawi.png){width=40%}
+
+Sarah Albalawi is in her third year in the MPH program in the department of Population and Quanitative Health Sciences. She completed her undergraduate studies in Dental Medicine at King Saud University in Saudi Arabia. Her research interests are oral health outcomes among medically compromised patients and the mobilization of rural dental care services. She loves baking sweets, appreciating art at galleries, and photographing nature. 
+

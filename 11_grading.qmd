@@ -17,7 +17,7 @@ Course grades are based primarily on performance on labs, projects and quizzes. 
 - Class Participation scored by Professor Love out of a possible 25 points.
 - Project A is worth 120 points (20 for the plan, 100 for the portfolio).
 - Project B is worth 150 points.
-- Two quizzes each initially scored out of 115 points, but I then multiply the better grade by 1.2 and the worse one by 0.8, to reach a total of 230 possible points.
+- Two quizzes each initially scored out of 100 points, with each score multiplied by 1.15 to get a result out of 115 points. Then, I will multiply the better grade by 1.2 and the worse one by 0.8, to reach a total of 230 possible points.
 
 That is a total of 850 possible points.
 
